@@ -94,7 +94,7 @@ a entrega está. Não chame de funcional o que está apenas escrito.
 ## Mapa da skill
 
 ```
-motor-comercial-e-gestao/
+motor-comercial-e-gestao-pt/
 ├── SKILL.md                              ← este arquivo (roteador)
 ├── references/
 │   ├── 01-evidencia-e-perfil.md          escada de evidência, o que prometer, como preencher o perfil

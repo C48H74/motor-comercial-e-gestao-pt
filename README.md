@@ -1,4 +1,4 @@
-# motor-comercial-e-gestao
+# motor-comercial-e-gestao-pt
 
 Skill de agente (formato `SKILL.md` com referências e templates) para **motor comercial** (oferta, preço, venda, negociação) e **gestão de entrega de projetos** (PMBOK 7, valor agregado, riscos, ISO 21502/31000), em português.
 
