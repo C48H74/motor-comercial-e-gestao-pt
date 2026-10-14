@@ -1,5 +1,5 @@
 ---
-name: motor-comercial-e-gestao
+name: motor-comercial-e-gestao-pt
 description: Motor comercial e gestão de entrega para negócios B2B de ciclo complexo. Use para revisar ou corrigir oferta, preço ou e-mail; diagnosticar por que a receita travou (alcance, qualidade do lead, conversão, capacidade, retenção); conduzir descoberta e qualificação (SPIN, MEDDPICC, Challenger, JOLT); montar proposta, garantia e plano 30/60/90; e para planejar, controlar e reportar projetos (PMBOK 7, valor agregado, riscos, ISO 21502/31000). Não use para análise de código-fonte nem para parecer jurídico formal.
 whenToUse: Quando o pedido envolver vender melhor (oferta, preço, objeção, pipeline, descoberta, proposta) ou entregar melhor (escopo, prazo, custo, risco, status de projeto). Não acione para arquitetura de software ou consultoria jurídica/tributária.
 ---
